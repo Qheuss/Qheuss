@@ -18,7 +18,4 @@ I'm currently studying web development
 ### My GitHub Stats
 
 <a href="http://www.github.com/Qheuss"><img src="https://github-readme-stats.vercel.app/api?username=Qheuss&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=444e59&bg_color=171717&hide_border=true&show_icons=true" alt="Qheuss's GitHub stats" /></a>
-
-<a href="http://www.github.com/Qheuss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Qheuss&stroke=ffffff&background=171717&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/Qheuss" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qheuss&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=444e59&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
