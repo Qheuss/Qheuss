@@ -14,6 +14,7 @@ I'm currently studying web development
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=flat&logo=Jellyfin&logoColor=00A4DC) </br>
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 </div>
+
 ### My GitHub Stats
 <div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Qheuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false) </br>
