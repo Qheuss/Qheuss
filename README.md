@@ -10,8 +10,6 @@ I'm currently studying web development
 *   ✉️  You can contact me at [quentin.heusse@hotmail.com](mailto:quentin.heusse@hotmail.com)
 *   🧠  I'm learning HTML, CSS, JS
 *   ⚡  I have a cat named Noisette and a rabbit called Cookie
-                  
-<p align="left"> <a href="https://www.linkedin.com/in/quentin-heusse" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### My GitHub Stats
 
@@ -21,5 +19,6 @@ I'm currently studying web development
 ---
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quentin_heusse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-heusse) 
 
 [![](https://visitcount.itsvg.in/api?id=Qheuss&icon=3&color=12)](https://visitcount.itsvg.in)
