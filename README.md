@@ -16,10 +16,12 @@ I'm currently studying web development
 </div>
 
 ### My GitHub Stats
+
 <div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Qheuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false) </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qheuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+
 ---
 
 ### Socials
