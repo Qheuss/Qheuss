@@ -17,5 +17,14 @@ I'm currently studying web development
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/Qheuss"><img src="https://github-readme-stats.vercel.app/api?username=Qheuss&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=444e59&bg_color=171717&hide_border=true&show_icons=true" alt="Qheuss's GitHub stats" /></a>
-<a href="https://github.com/Qheuss" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qheuss&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=444e59&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://github-readme-stats.vercel.app/api?username=Qheuss&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qheuss&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quentin_heusse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-heusse) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Qheuss&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qheuss&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Qheuss&icon=3&color=12)](https://visitcount.itsvg.in)
