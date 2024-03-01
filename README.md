@@ -4,7 +4,7 @@ Hi 👋 My name is Quentin Heusse
 Student
 -------
 
-I'm currently studying web development
+<p style="text-align: center;">I'm currently studying web development</p>
 
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [quentin.heusse@hotmail.com](mailto:quentin.heusse@hotmail.com)
