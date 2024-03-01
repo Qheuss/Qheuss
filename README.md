@@ -16,7 +16,7 @@ I'm currently studying web development
 ![](https://github-readme-stats.vercel.app/api?username=Qheuss&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qheuss&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Snake animation](https://github.com/Qheuss/Qheuss/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Qheuss/Qheuss/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
