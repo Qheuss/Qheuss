@@ -1,3 +1,4 @@
+<div align="center">
 Hi 👋 My name is Quentin Heusse
 ======================================================================================================================================
 
@@ -29,3 +30,4 @@ I'm currently studying web development
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quentin_heusse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-heusse) 
 
 [![](https://visitcount.itsvg.in/api?id=Qheuss&icon=3&color=12)](https://visitcount.itsvg.in)
+</div>
