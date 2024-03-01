@@ -1,9 +1,5 @@
 <div align="center">
-Hi 👋 My name is Quentin Heusse
-======================================================================================================================================
-
-Student
--------
+### Hi 👋 My name is Quentin Heusse
 
 I'm currently studying web development
 
@@ -20,7 +16,7 @@ I'm currently studying web development
 
 ### My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Qheuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Qheuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false) </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qheuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
@@ -30,4 +26,7 @@ I'm currently studying web development
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quentin_heusse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-heusse) 
 
 [![](https://visitcount.itsvg.in/api?id=Qheuss&icon=3&color=12)](https://visitcount.itsvg.in)
+<div>
+    <img src="https://komarev.com/ghpvc/?username=enkelan&style=flat-square&color=black" alt=""/>
+</div>
 </div>
