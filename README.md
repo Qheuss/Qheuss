@@ -18,7 +18,7 @@ I'm currently studying web development
 ![](https://github-readme-stats.vercel.app/api?username=Qheuss&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qheuss&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=Qheuss&color=2aa889)
+![](https://komarev.com/ghpvc/?username=Qheuss&color=217d68)
 ---
 
 ### Socials
