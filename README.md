@@ -25,5 +25,5 @@ I'm currently studying web development
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quentin_heusse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-heusse) 
 
-![](https://komarev.com/ghpvc/?username=Qheuss&color=grey)
+![](https://komarev.com/ghpvc/?username=Qheuss&color=34eb4f)
 </div>
