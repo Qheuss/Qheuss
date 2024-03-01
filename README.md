@@ -18,10 +18,9 @@ I'm currently studying web development
 ![](https://github-readme-stats.vercel.app/api?username=Qheuss&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qheuss&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=Qheuss&color=2aa889)
 ---
 
 ### Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quentin_heusse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-heusse) 
-
-![](https://komarev.com/ghpvc/?username=Qheuss&color=2aa889)
