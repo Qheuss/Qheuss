@@ -4,7 +4,7 @@ I'm currently studying web development
 
 *   🌍  I'm based in Belgium
 *   🐈  I have a cat named Noisette
-*   🐇  And a a rabbit called Cookie
+*   🐇  And a a rabbit called Cookie </br>
     [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Qheuss/)
 
 ### Currently learning / Using
