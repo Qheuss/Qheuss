@@ -3,8 +3,8 @@
 I'm currently studying web development
 
 *   🌍  I'm based in Belgium
-*   ✉️  You can contact me at [quentin.heusse@hotmail.com](mailto:quentin.heusse@hotmail.com)
-*   🐈  I have a cat named Noisette and a rabbit called Cookie
+*   🐈  I have a cat named Noisette
+*   🐇  And a a rabbit called Cookie
 
 ### Currently learning / Using
   
@@ -25,3 +25,4 @@ I'm currently studying web development
 ### Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quentin_heusse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-heusse) 
+You can contact me at [quentin.heusse@hotmail.com](mailto:quentin.heusse@hotmail.com)
