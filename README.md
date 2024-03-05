@@ -5,6 +5,7 @@ I'm currently studying web development
 *   🌍  I'm based in Belgium
 *   🐈  I have a cat named Noisette
 *   🐇  And a a rabbit called Cookie
+*   👨🏼‍💻  ![Leetcode](https://leetcode.com/Qheuss/)
 
 ### Currently learning / Using
   
