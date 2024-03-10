@@ -1,4 +1,4 @@
-### Hi 👋 My name is Quentin Heusse
+### Hi 😸 My name is Quentin Heusse
 
 I'm currently studying web development
 
