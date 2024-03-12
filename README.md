@@ -4,7 +4,7 @@ I'm currently studying web development
 
 *   🌍  I'm based in Belgium
 *   🐈  I have a cat named Noisette
-*   🐇  And a a rabbit called Cookie </br>
+*   🐇  And a rabbit called Cookie </br>
 
 ### Currently learning / Using
   
