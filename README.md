@@ -2,7 +2,7 @@
 
 *   🌍  I'm based in Belgium
 *   🐈  I have a cat named Noisette
-*   🐇  And a rabbit called Cookie </br>
+*   🐇  And a rabbit called Cookie
 
 ### I'm Currently learning / Using
   
