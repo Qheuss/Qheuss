@@ -2,7 +2,6 @@
 
 *   🌍  I'm based in Belgium
 *   🐈  I have a cat named Noisette
-*   🐇  And a rabbit called Cookie † 22/03/2024
 
 ### I'm Currently learning / Using
   
